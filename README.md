@@ -27,6 +27,17 @@
 
  VÍDEO #03 - Leaflet - Basemaps e camadas de sobreposição:  https://www.youtube.com/watch?v=nWG45QWU5M0
 
+ 
+#---------------------------------------------------------------------------------------
+
+
+ VÍDEO #04 - Leaflet - Excelente tutorial:  https://www.youtube.com/watch?v=cBQcMLzq5gU&list=PLJ8PYFcmwFOxmqYNlo_H8TYVSDLxB8HdR&index=6
+
+
+ VÍDEO #05 - Leaflet - Excelente tutorial:  https://www.youtube.com/watch?v=ls_Eue1xUtY
+
+
+
 
 
 
